@@ -1,0 +1,298 @@
+{
+  "name": "Geoff Golder",
+  "info": {
+    "label": "Generalist",
+    "image": "https://i.imgur.com/aVGsbsN.jpg",
+    "brief": "First principle driven engineering and problem solving"
+  },
+  "contact": {
+    "email": "geoff@generalconsulting.io",
+    "phone": "(909) 855-1071",
+    "website": "https://github.com/gdoteof"
+  },
+  "meta": {
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2019-04-18T05:32:40.551Z"
+  },
+  "location": {
+    "city": "Burlington",
+    "region": "Vermont",
+    "country": "US",
+    "code": "05408",
+    "address": "89 Tracy Dr"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Engineer/Engineering Manager",
+        "employer": "Earnin",
+        "summary": "Just shy of 4 years, started as IC, got up to 14 direct reports, went back to IC",
+        "start": "2019-04-01",
+        "end": "2023-05-01",
+        "keywords": ["Engineering Leadership", "Kubernetes", "Re-architecting"],
+        "highlights": [
+          "Lead successful decomposition of legacy monolith",
+          "Successfully calmed error-prone and business critical team related to money movement.",
+          "Lead multiple successful PCI audits from engineering side",
+          "Trusted technical interviewer at the highest levels",
+          "Introduced and implemented dependency tree cache for Kotlin build, bringing average CI time down from hours to minutes."
+        ]
+      },
+      {
+        "position": "Mentor",
+        "employer": "Code Mentor",
+        "summary": "Mentor / short term consultant on a variety of topics",
+        "start": "2016-04-01",
+        "end": "2019-03-01",
+        "url": "https://www.codementor.io/geoffgolder",
+        "keywords": [],
+        "highlights": [
+          "Helping data scientists productionize code",
+          "Helping students understand basics",
+          "Fast fixes for a variety of frustrated people",
+          "5-star rated mentor over several years"
+        ]
+      },
+      {
+        "position": "Head of Development",
+        "employer": "Ixis",
+        "summary": "Oversaw a small team in pursuit of building analytics implementations, automating data pipelines, and client web development",
+        "start": "2016-04-01",
+        "end": "2018-01-01",
+        "url": "http://ixisdigital.com",
+        "keywords": [],
+        "highlights": [
+          "Hired as third employee",
+          "Automation",
+          "Architected and Implemented successful 7 figure project"
+        ]
+      },
+      {
+        "position": "Co-founder",
+        "employer": "Vision.ai",
+        "summary": "Computer vision startup",
+        "start": "2013-11-01",
+        "end": "2016-03-01",
+        "keywords": [],
+        "highlights": [
+          "Production pipeline in docker",
+          "Website, distribution, backend written in haskell",
+          "deployed matlab models via dockerhub"
+        ]
+      },
+      {
+        "position": "Consultant",
+        "employer": "Consultant",
+        "summary": "Freelance Developer",
+        "start": "2011-05-01",
+        "end": "2013-04-01",
+        "keywords": [],
+        "highlights": [
+          "Drupal",
+          "Automation",
+          "Client Web Work"
+        ]
+      },
+      {
+        "position": "Systems Architect",
+        "employer": "EatingWell Media (now part of Meredith)",
+        "summary": "",
+        "start": "2010-09-01",
+        "end": "2011-04-01",
+        "url": "https://eatingwell.com",
+        "keywords": [],
+        "highlights": [
+          "Carved out a technology division in a pre-internet lifestyle publishing company",
+          "Moved to cloud/virtual machines saving more than my salary per year",
+          "Created company's first API"
+        ]
+      },
+      {
+        "position": "Professional Poker Player",
+        "employer": "",
+        "summary": "",
+        "start": "2006-09-01",
+        "end": "2009-04-01",
+        "keywords": [],
+        "highlights": [
+          "Turned $25 bankroll to $xxx,xxx over several years",
+          "Short handed no limit holdem specialist",
+          "Shut down by poker's black friday",
+          "Got back into programming after poker"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Fast.ai",
+        "start": "2018-11",
+        "end": "2019-04",
+        "curriculum": [
+          "Deep Learning From the Ground UP",
+          "Practical Deep Learning For Coders",
+          "Introduction to Machine Learning for Coders"
+        ],
+        "summary": ""
+      },
+      {
+        "institution": "other moocs",
+        "start": "2018-08",
+        "end": "2018-11",
+        "curriculum": [
+          "Geoffrey Hinton's Neural Network Course",
+          "Andrew Ng's machine learning course"
+        ],
+        "summary": ""
+      },
+      {
+        "institution": "Rennselear Polytechnic Institute",
+        "start": "2001-09",
+        "end": "2003-05",
+        "curriculum": [
+          "Data Structures and Algorithms",
+          "Operating Systems"
+        ],
+        "summary": ""
+      }
+    ]
+  },
+  "service": {
+    "history": [
+      {
+        "type": "volunteer",
+        "position": "Treasurer",
+        "organization": "Vermont Hacker Spaces",
+        "start": "2014-06-01",
+        "end": "2016-04-01",
+        "url": "http://laboratoryb.org/",
+        "summary": "Treasurer for a small hackerspace (<50k/year)",
+        "highlights": [
+          "Paid bills and helped raise money for hackerspace"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Software Development Meta",
+        "level": "Expert",
+        "skills": [
+          "Building consensus",
+          "Motivation through shared vision rather than poking.",
+          "Identifying and easing cognitive complexity",
+          "Baremetal deployment."
+        ]
+      },
+      {
+        "name": "Software Architecture",
+        "level": "Expert",
+        "skills": [
+          "Improving and generalizing abstractions",
+          "Refactoring and migrating critical workloads",
+          "Cloud based deployment",
+          "Baremetal deployment."
+        ]
+      },
+      {
+        "name": "Front End Web Developer",
+        "level": "Expert",
+        "skills": [
+          "React",
+          "Angular",
+          "javascript"
+        ]
+      },
+      {
+        "name": "Back End Developer",
+        "level": "Expert",
+        "skills": [
+          "NodeJS",
+          "Yesod/Haskell",
+          "Python/Flask/starlette",
+          "Databases: mysql/postgresql/mariadb"
+        ]
+      },
+      {
+        "name": "Generalist",
+        "level": "Master",
+        "skills": [
+          "DevOPS: docker/coreos/kubernetes (2023 update: these aren't really devops, and you should use gitops)",
+          "xlsx construction from scratch",
+          "low latency video encoding with obs/blackmagic (2023 update: webrtc and anything)",
+          "Webservers: nginx/apache (2023 update: wasm on cloudflare, everything else on k8s with self-serving applications)",
+          "Linux system administration (2023 update: it's containers all the way down)",
+          "End to End problem solving",
+          "Python/Flask/starlette",
+          "3d scanning and web deployment of archaeological artifacts (2023 update your phone with photogammetry app is 10x better than our jank setup was)"
+        ]
+      },
+      {
+        "name": "Deep Learning",
+        "level": "Intermediate (2023 update: turns out you don't need to know much math any more and models are just normal libraries now)",
+        "skills": [
+          "Pytorch",
+          "fastai",
+          "cnns/rnns/densenets",
+          "computer vision",
+          "NLP",
+          "recommendation engines",
+          "collaborative filtering"
+        ]
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "Kaggle",
+      "network": "Kaggle",
+      "url": "http://kaggle.com/gdoteof",
+      "user": "gdoteof"
+    },
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "http://twitter.com/gdoteof",
+      "user": "gdoteof"
+    },
+    {
+      "label": "Github",
+      "network": "Github",
+      "url": "http://github.com/gdoteof",
+      "user": "gdoteof"
+    },
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "http://linkedin.com/in/geoffgolder",
+      "user": "geoffgolder"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Electronics & Magnetism"
+    },
+    {
+      "name": "Privacy and ownership"
+    },
+    {
+      "name": "Philosophy"
+    },
+    {
+      "name": "Meditation"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fumbling but functional"
+    }
+  ]
+}
